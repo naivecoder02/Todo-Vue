@@ -28,7 +28,7 @@ To run this project on your local machine, follow these steps:
 
 ## Running the Application
 #### 1.Start the JSON server to serve mock data:
-`npm run json-server`
+`json-server --watch db.json`
 #### 2.Start the development server to run the Vue application:
 `npm run serve`<br><br>
 Open your web browser and navigate to http://localhost:8080 to view the Todo-List application.
