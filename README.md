@@ -13,6 +13,24 @@ Toggle between light and dark themes for better visibility
 #### Vue.js: Frontend framework for building user interfaces
 #### Axios: Promise-based HTTP client for making API requests
 #### Moment.js: Library for parsing, validating, manipulating, and formatting dates and times
+## Prerequisites
+##### Node.js and npm installed on your machine:
+You can download and install Node.js from here:
+`https://nodejs.org/en/download`<br>
+And npm from this command:
+`npm install -g npm`
+##### Vue CLI installed globally:
+You can install it via npm with the following command:
+`npm install -g @vue/cli`
+##### JSON Server installed globally:
+You can install it via npm with the following command:
+`npm install -g json-server`
+##### Axios installed as a project dependency:
+You can install it via npm with the following command:
+`npm install axios`
+##### Moment installed as a project dependency:
+You can install it via npm with the following command:
+`npm install moment`
 ## Installation
 To run this project on your local machine, follow these steps:
 
